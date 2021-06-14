@@ -5,5 +5,5 @@ import (
 )
 
 func Visit() {
-	fmt.Println("F feat-1.0.0")
+	fmt.Println("F 1.1.0")
 }
